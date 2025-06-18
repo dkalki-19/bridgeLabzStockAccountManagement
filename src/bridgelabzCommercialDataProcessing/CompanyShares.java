@@ -1,4 +1,4 @@
-package bridgelabzStockReportApplication;
+package bridgelabzCommercialDataProcessing;
 
 import java.time.LocalDateTime;
 
@@ -40,3 +40,4 @@ public class CompanyShares {
         return symbol + " - Shares: " + shares + " | Last Transaction: " + dateTime;
     }
 }
+
