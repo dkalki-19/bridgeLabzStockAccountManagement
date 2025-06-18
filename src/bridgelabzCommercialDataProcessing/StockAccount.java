@@ -1,4 +1,4 @@
-package bridgelabzStockReportApplication;
+package bridgelabzCommercialDataProcessing;
 
 import java.util.*;
 import java.io.*;

@@ -1,4 +1,4 @@
-package bridgelabzStockReportApplication;
+package bridgelabzCommercialDataProcessing;
 
 import java.util.Scanner;
 
@@ -47,3 +47,4 @@ public class StockAccountApp {
         }
     }
 }
+
